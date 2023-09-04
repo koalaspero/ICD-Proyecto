@@ -1,0 +1,11 @@
+TipoDelito,Centro,Norte,Sur
+Accidente Vehicular,17.0,50.0,45.0
+Agresión,2.0,38.0,37.0
+Drogas,1.0,0.0,0.0
+Extorsión,1.0,3.0,2.0
+Fraude,0.0,3.0,1.0
+Homicidio,2.0,59.0,32.0
+Incendio,1.0,7.0,3.0
+Robo,29.0,100.0,97.0
+Secuestro,0.0,1.0,3.0
+Vandalismo,2.0,9.0,5.0
